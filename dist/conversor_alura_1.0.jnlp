@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="conversor_alura_1.0.jnlp">
+  <information>
+    <title>conversor_alura_1.0</title>
+    <vendor>gguri</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="conversor_alura_1.0.jar" size="3150" download="eager" />
+  </resources>
+  <application-desc main-class="conversor_alura_1.pkg0.Conversor_alura_10"  name="conversor_alura_1.0" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
